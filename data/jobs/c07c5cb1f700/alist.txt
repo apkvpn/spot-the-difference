@@ -1,0 +1,6 @@
+file '/app/data/jobs/c07c5cb1f700/audio/intro.wav'
+file '/app/data/jobs/c07c5cb1f700/audio/pic_000.wav'
+file '/app/data/jobs/c07c5cb1f700/audio/pic_001.wav'
+file '/app/data/jobs/c07c5cb1f700/audio/pic_002.wav'
+file '/app/data/jobs/c07c5cb1f700/audio/pic_003.wav'
+file '/app/data/jobs/c07c5cb1f700/audio/outro.wav'

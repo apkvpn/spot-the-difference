@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Vazirmatn", system-ui, sans-serif;
+  background: linear-gradient(135deg, #ffd6e8 0%, #fff4c8 36%, #c8f2ee 68%, #e4d6ff 100%);
+  background-attachment: fixed;
+}
+
+.fredoka {
+  font-family: "Fredoka", "Vazirmatn", sans-serif;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 1.5rem;
+  box-shadow: 0 10px 30px rgba(70, 30, 120, 0.12);
+  border: 3px solid transparent;
+  background-clip: padding-box;
+}
+
+.rainbow-border {
+  border: 4px solid transparent;
+  background:
+    linear-gradient(#fff, #fff) padding-box,
+    linear-gradient(90deg, #ff4f9a, #ff8a1f, #ffc928, #43c95c, #28aaff, #7b4dff) border-box;
+}
+
+.field {
+  width: 100%;
+  border-radius: 0.9rem;
+  border: 2px solid #e4dcf7;
+  padding: 0.6rem 0.8rem;
+  background: #fff;
+  outline: none;
+}
+.field:focus {
+  border-color: #7b4dff;
+}
+
+.chip {
+  border-radius: 999px;
+  padding: 0.45rem 1rem;
+  border: 2px solid #e4dcf7;
+  background: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.chip[data-on="true"] {
+  background: #7b4dff;
+  border-color: #7b4dff;
+  color: #fff;
+}
+
+.btn {
+  border-radius: 999px;
+  padding: 0.8rem 1.6rem;
+  font-weight: 800;
+  color: #fff;
+  background: linear-gradient(90deg, #ff4f9a, #7b4dff);
+  box-shadow: 0 6px 0 #3a1f6b33;
+}
+.btn:disabled {
+  opacity: 0.5;
+}

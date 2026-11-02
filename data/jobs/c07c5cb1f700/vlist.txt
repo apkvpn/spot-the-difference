@@ -1,0 +1,6 @@
+file '/app/data/jobs/c07c5cb1f700/segments/intro.mp4'
+file '/app/data/jobs/c07c5cb1f700/segments/pic_000.mp4'
+file '/app/data/jobs/c07c5cb1f700/segments/pic_001.mp4'
+file '/app/data/jobs/c07c5cb1f700/segments/pic_002.mp4'
+file '/app/data/jobs/c07c5cb1f700/segments/pic_003.mp4'
+file '/app/data/jobs/c07c5cb1f700/segments/outro.mp4'

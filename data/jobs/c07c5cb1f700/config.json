@@ -1,0 +1,20 @@
+{
+  "duration_min": 5,
+  "source": "ai",
+  "images": [],
+  "ai_count": 0,
+  "ai_diffs": 5,
+  "ai_type": "mixed",
+  "ai_style": "mixed",
+  "episode": 1,
+  "channel": "Puzzle Land",
+  "cta_enabled": true,
+  "cta_positions": [
+    "start",
+    "middle",
+    "end"
+  ],
+  "seed": 13050,
+  "ffmpeg": "/app/node_modules/ffmpeg-static/ffmpeg",
+  "ffprobe": "/app/node_modules/ffprobe-static/bin/linux/x64/ffprobe"
+}
